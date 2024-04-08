@@ -37,7 +37,7 @@
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quanta09&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://SYNAX07.me)
 
 
-<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> 𝕲𝖎𝖙𝖍𝖚𝖇 𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘 </h1>
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SYNAX07&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYNAX07&theme=chartreuse-dark&hide_border=True&bg_color=000099" width="49%">](https://github.com/SYNAX07)
 
