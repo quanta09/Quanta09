@@ -12,7 +12,7 @@
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/6a7152315ede6b5f92c02.jpg" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🥀+🖤+𝖍𝖊𝖞+𝖙𝖍𝖊𝖗𝖊+𝖙𝖍𝖎𝖘+𝖎𝖘+𝖘𝖞𝖓𝖆𝖝+🖤+🥀"></b></h3>
 
-<b>ᴠɪsɪᴛᴏʀs</b><br>
+<b>𝖁𝖎𝖘𝖎𝖙𝖔𝖗𝖘</b><br>
 ![](https://count.getloli.com/get/@SYNAX07.github.readme)
 </br>
 
