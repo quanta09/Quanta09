@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔭𝔯𝔬𝔣𝔦𝔩𝔢" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+SYNAX;He/Him;Student;Indian+Frontend+Dev;PC+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Student, Indian front-end developer, Power Metal lover"></a>
