@@ -66,7 +66,7 @@
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 </br></br>
 
-<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<h2>:hammer_and_wrench: 𝕿𝖍𝖎𝖓𝖌𝖘 𝖙𝖍𝖆𝖙 𝖍𝖊𝖑𝖕 𝖒𝖊 𝖌𝖊𝖙𝖙𝖎𝖓𝖌 𝖒𝖞 𝖈𝖔𝖉𝖊 𝖉𝖔𝖓𝖊</h2>
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
