@@ -47,7 +47,7 @@
 
 
 
-## My Stats
+## 𝕸𝖞 𝕾𝖙𝖆𝖙𝖘
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SYNAX07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYNAX07&layout=compact&theme=midnight-purple&hide=Css)
