@@ -80,7 +80,7 @@
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
 <details>
-<summary>Click here for a cute surprise! :3</summary>
+<summary>𝕮𝖑𝖎𝖈𝖐 𝖍𝖊𝖗𝖊 𝖋𝖔𝖗 𝖆 𝖈𝖚𝖙𝖊 𝖘𝖚𝖗𝖕𝖗𝖎𝖘𝖊! :3</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
