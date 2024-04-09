@@ -54,7 +54,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Quanta09)
 
-<h2>:bulb: Languages & Frameworks I code in</h2>
+<h2>:bulb: 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 & 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘 𝕴 𝖈𝖔𝖉𝖊 𝖎𝖓</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
