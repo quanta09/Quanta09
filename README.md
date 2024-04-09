@@ -85,7 +85,7 @@
 </details>
 
 
-## Connect with Me
+## 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝕸𝖊
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SYNAX07)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ASHWANI10)
