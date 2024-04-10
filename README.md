@@ -18,7 +18,7 @@
 
 [<img src="https://telegra.ph/file/6a7152315ede6b5f92c02.jpg"/>](https://github.com/SYNAX07)
 
-# 🌹 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓 𝕲𝖗𝖆𝖕𝖍:
+# 🌹 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓 𝕲𝖗𝖆𝖕𝖍
 
 
 <p align="center">
