@@ -18,6 +18,29 @@
 
 [<img src="https://telegra.ph/file/6a7152315ede6b5f92c02.jpg"/>](https://github.com/SYNAX07)
 
+
+```python3
+class SYNAX():
+    def __init__(self):
+        self.name = ['SYNAX']
+        self.country = ['INDIA']
+        self.language = ['हिंदी','English']
+    def programming_languages(self):
+        return [
+             'Java', 'C++','Python','HTML', 'Node.Js', 'PHP', 'SQL'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL', 'Azure', 'GG','ARM','MT-Manager',
+            'Android-Studio','Vs-Code'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android', 'Linux'
+        ]
+ ```
+
 # 🌹 𝕮𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖎𝖔𝖓 𝕲𝖗𝖆𝖕𝖍
 
 
